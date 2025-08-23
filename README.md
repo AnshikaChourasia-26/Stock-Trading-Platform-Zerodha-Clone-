@@ -10,5 +10,5 @@ users with a simulated experience of stock trading, order management, and portfo
 - Order placing (Buy/Sell)
 - Portfolio and holding tracking
 - Watchlist management
-- Interactive charts using [TradingView / Chart.js / ApexCharts]
-- Login & Sign-up flow (UI only or with authentication)
+- Interactive charts using [DoughnoutCharts , vertical Graphs]
+- Login & Sign-up flow (UI only)
